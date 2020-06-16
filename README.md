@@ -1,5 +1,5 @@
 # Face-unlock
-This repo has 2 ipynb files, one is for adding face and other is for recognition. CSV files are used to store every data possible.
+This repo has 2 ipynb files, one is for adding face and other is for recognition. The CSV files are used to store every data possible.
 
 
 The jpg files 0,1,2... are the images saved for some verified persons.
